@@ -1,0 +1,17 @@
+W3C Validation report - must have a clickable HTML5 image linked to the validation report for each page.
+-- You can see the report on clicking the W3C Validation on the nav bar.
+
+CSS reset page
+-- reset.css is in css
+
+Graphics
+-- you can see two graphics arts in Computer Graphics in Project.
+
+JQuery
+-- JQuery is used in contact form.
+
+JavaScript Function
+-- You can see functions in several places: Contact and JavaScript Game in Web Development I in Project.
+
+Loop, if-then-else statement, while loop, and switch can be found in the JavaScript Game and Contact form.
+
